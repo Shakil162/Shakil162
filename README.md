@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new new code
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me via Email
-mdalaminshakil31@gmail.com
+- 📫 You can contact with me via Email
+                       mdalaminshakil31@gmail.com
 
 <!---
 Shakil162/Shakil162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
